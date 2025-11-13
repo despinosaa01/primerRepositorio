@@ -1,0 +1,28 @@
+INFO - Línea leída: 12
+INFO - Línea leída: 57
+DEBUG - Valor de n: 2
+DEBUG - Valor de m: 4
+INFO - Valor de resultado: 2
+INFO - Línea leída: 57
+DEBUG - Valor de n: 5
+DEBUG - Valor de m: 8
+INFO - Valor de resultado: 5
+INFO - Línea leída: 57
+DEBUG - Valor de n: 0
+DEBUG - Valor de m: 0
+WARN - Se devuelve -1
+INFO - Final programa - Línea leída: 26
+INFO - Línea leída: 12
+INFO - Línea leída: 57
+DEBUG - Valor de n: 32
+DEBUG - Valor de m: 5
+INFO - Valor de resultado: 2
+INFO - Línea leída: 57
+DEBUG - Valor de n: 2
+DEBUG - Valor de m: 1
+INFO - Valor de resultado: 0
+INFO - Línea leída: 57
+DEBUG - Valor de n: 2
+DEBUG - Valor de m: 0
+WARN - Se devuelve -1
+INFO - Final programa - Línea leída: 26
