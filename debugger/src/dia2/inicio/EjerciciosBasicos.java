@@ -20,7 +20,7 @@ public class EjerciciosBasicos {
 //		Scanner s = new Scanner(System.in);
 //		System.out.println("Introduce un número:");
 //		System.out.println(ejercicio1(s.nextInt()));
-		for(int i = -100; i< 100; i = i + 10) {
+		for(int i = -10; i< 100; i = i + 10) {
 			System.out.println(ejercicio1(i));
 
 		}
